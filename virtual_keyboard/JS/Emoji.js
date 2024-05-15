@@ -1,4 +1,4 @@
-let customTab = null  hdiwiiwwidi
+let customTab = null  
 
 
 const EmojiPicker = function(options) {
